@@ -1,0 +1,15 @@
+define user ask capabilities
+  "What can you do for me?"
+  "What can you do?"
+  "What can you help me with?"
+  "tell me what you can do"
+  "tell me about you"
+  "How can I use your help?"
+
+define flow
+  user ask capabilities
+  bot inform capabilities
+
+define bot inform capabilities
+  "I am a LLM which helps create Linkedin posts based on training data. For this interaction, I can create Linkedin posts based on Linkedin influencers."
+

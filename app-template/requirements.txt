@@ -1,0 +1,5 @@
+pandas==1.3.5
+numpy==1.26.1
+h2o-wave==0.26.0
+h2ogpte==1.1.5
+loguru
