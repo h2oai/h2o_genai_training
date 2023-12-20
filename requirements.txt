@@ -137,7 +137,7 @@ tokenizers==0.14.1
 torch==2.1.0
 torchvision==0.16.0
 tqdm==4.66.1
-transformers==4.34.1
+transformers==4.36.0
 typer==0.7.0
 typing-inspect==0.9.0
 typing_extensions==4.5.0
